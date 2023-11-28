@@ -21,7 +21,7 @@ main .hero h1 {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0;
-  color: black;
+  color: white;
   font: normal normal normal 48px/52px 'adobe-clean';
 }
 
@@ -30,7 +30,7 @@ main .hero h2 {
   margin-top: 0;
   margin-left: auto;
   margin-right: auto;
-  color: black;
+  color: white;
   font: normal normal 900 48px/52px 'adobe-clean';
 }
 
